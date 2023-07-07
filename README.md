@@ -1,6 +1,6 @@
-# Web3 Functions Use Cases and PoCs.
+# Web3 Functions Use Cases and Demos.
 
-Github repo listing the existing Relay use-cases and PoCs.
+Github repo listing the existing Relay use-cases and demos.
 
 ### Quick Links Use Cases
 - [Relay Unit Testing with Hardhat](https://github.com/gelatodigital/rel-example-unit-tests) 
