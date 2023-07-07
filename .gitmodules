@@ -1,0 +1,12 @@
+[submodule "v4-hash-based-erc2771"]
+	path = v4-hash-based-erc2771
+	url = https://github.com/gelatodigital/relay-hash-based-ERC2771
+[submodule "v4-gelato-deployer"]
+	path = v4-gelato-deployer
+	url = https://github.com/gelatodigital/relay-gasless-contract-deploy
+[submodule "v4-swap-fee-token"]
+	path = v4-swap-fee-token
+	url = https://github.com/gelatodigital/rel-swap-fee-token
+[submodule "v4-hardhat-unit-tests"]
+	path = v4-hardhat-unit-tests
+	url = https://github.com/gelatodigital/rel-example-unit-tests
