@@ -3,11 +3,12 @@
 Github repo listing the existing Relay use-cases and demos.
 
 ### Quick Links Use Cases
-- [Relay Unit Testing with Hardhat](https://github.com/gelatodigital/rel-example-unit-tests) 
-- [Swap Fee Token](https://github.com/gelatodigital/rel-swap-fee-token) 
-- [Hash Based ERC2771](https://github.com/gelatodigital/relay-hash-based-ERC2771) 
-- [ Gelato Deployer](https://github.com/gelatodigital/relay-gasless-contract-deploy) 
-
+- [Relay Unit Testing with Hardhat](https://github.com/gelatodigital/rel-example-unit-tests)
+- [Swap Fee Token](https://github.com/gelatodigital/rel-swap-fee-token)
+- [Hash Based ERC2771](https://github.com/gelatodigital/relay-hash-based-ERC2771)
+- [Gelato Deployer](https://github.com/gelatodigital/relay-gasless-contract-deploy)
+- [Sponsored NFT Mint](https://github.com/gelatodigital/relay-sponsored-nft-mint)
+- [Gasless CCTP](https://github.com/gelatodigital/relay-gasless-cctp)
 
 &nbsp;  
 
@@ -59,3 +60,25 @@ This project demonstrates network-agnostic contract deployment using Relay and 1
 🟢 Version: 4.0
 
 Repo: [https://github.com/gelatodigital/relay-gasless-contract-deploy](https://github.com/gelatodigital/relay-gasless-contract-deploy)
+
+---
+
+### Sponsored NFT Mint
+This project demonstrates 1Balance sponsored NFT minting&nbsp; 
+
+**Status**&nbsp;  
+🟢 Ready to use&nbsp;  
+🟢 Version: 4.0
+
+Repo: [https://github.com/gelatodigital/relay-sponsored-nft-mint](https://github.com/gelatodigital/relay-sponsored-nft-mint)
+
+---
+
+### Gasless CCTP
+This project demonstrates gasless Cross-Chain-Transfer-Protocol allowing users to seamlessly bridge USDC whilst covering transaction fees in USDC&nbsp;
+
+**Status**&nbsp;  
+🟢 Ready to use&nbsp;  
+🟢 Version: 4.0
+
+Repo: [https://github.com/gelatodigital/relay-gasless-cctp](https://github.com/gelatodigital/relay-gasless-cctp)

@@ -10,3 +10,9 @@
 [submodule "v4-hardhat-unit-tests"]
 	path = v4-hardhat-unit-tests
 	url = https://github.com/gelatodigital/rel-example-unit-tests
+[submodule "v4-sponsored-nft-mint"]
+	path = v4-sponsored-nft-mint
+	url = https://github.com/gelatodigital/relay-sponsored-nft-mint
+[submodule "v4-gasless-cctp"]
+	path = v4-gasless-cctp
+	url = https://github.com/gelatodigital/relay-gasless-cctp
