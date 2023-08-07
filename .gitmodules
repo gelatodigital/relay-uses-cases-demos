@@ -13,3 +13,9 @@
 [submodule "v4-safe-relay-examples"]
 	path = v4-safe-relay-examples
 	url = https://github.com/gelatodigital/relay-safe-examples.git
+[submodule "v4-sponsored-nft-mint"]
+	path = v4-sponsored-nft-mint
+	url = https://github.com/gelatodigital/relay-sponsored-nft-mint
+[submodule "v4-gasless-cctp"]
+	path = v4-gasless-cctp
+	url = https://github.com/gelatodigital/relay-gasless-cctp
