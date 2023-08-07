@@ -10,3 +10,6 @@
 [submodule "v4-hardhat-unit-tests"]
 	path = v4-hardhat-unit-tests
 	url = https://github.com/gelatodigital/rel-example-unit-tests
+[submodule "v4-safe-relay-examples"]
+	path = v4-safe-relay-examples
+	url = https://github.com/gelatodigital/relay-safe-examples.git
