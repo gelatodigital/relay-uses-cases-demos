@@ -59,3 +59,14 @@ This project demonstrates network-agnostic contract deployment using Relay and 1
 🟢 Version: 4.0
 
 Repo: [https://github.com/gelatodigital/relay-gasless-contract-deploy](https://github.com/gelatodigital/relay-gasless-contract-deploy)
+
+---
+
+### Gelato Relay with Safe
+This project showcases how to use Gelato Relay together with Safe. This can done using the AccountAbstraction sdk or the Safe sdk 
+
+**Status**&nbsp;  
+🟢 Ready to use&nbsp;  
+🟢 Version: 4.0
+
+Repo: [https://github.com/gelatodigital/relay-safe-examples.git](https://github.com/gelatodigital/relay-safe-examples.git)
