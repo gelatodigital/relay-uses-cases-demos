@@ -82,3 +82,15 @@ This project demonstrates gasless Cross-Chain-Transfer-Protocol allowing users t
 🟢 Version: 4.0
 
 Repo: [https://github.com/gelatodigital/relay-gasless-cctp](https://github.com/gelatodigital/relay-gasless-cctp)
+
+---
+
+### Safe Examples
+This project showcases how to integrate Relay with Safe. This can be done with the Accountabstraction sdk or with the Safe sdk.
+
+**Status**&nbsp;  
+🟢 Ready to use&nbsp;  
+🟢 Version: 4.0
+
+Repo: [https://github.com/gelatodigital/relay-safe-examples.git](https://github.com/gelatodigital/relay-safe-examples.git)
+
