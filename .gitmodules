@@ -22,3 +22,6 @@
 [submodule "v5-relay-front-backend-examples"]
 	path = v5-relay-front-backend-examples
 	url = https://github.com/gelatodigital/relay-examples-frontend-backend-v5.git
+[submodule "v5-gasless-cctp"]
+	path = v5-gasless-cctp
+	url = https://github.com/gelatodigital/gasless-cctp
