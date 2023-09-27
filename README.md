@@ -10,8 +10,6 @@ Github repo listing the existing Relay use-cases and demos.
 - [Sponsored NFT Mint](https://github.com/gelatodigital/relay-sponsored-nft-mint)
 - [Gasless CCTP](https://github.com/gelatodigital/gasless-cctp)
 
-&nbsp;
-
 ---
 
 ### Relay Unit Testing with Hardhat
